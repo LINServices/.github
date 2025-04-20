@@ -1,8 +1,25 @@
-# Bienvenido a LIN Experimental 👋
-¡Bienvenido a LIN Experimental! Esta organización está dedicada a la publicación de bibliotecas y utilidades experimentales diseñadas para que los estudiantes practiquen e implementen en sus sistemas.
+# LINServices
 
-## Formas de participar
-Si tienes algo que crees que podría ser útil para la comunidad, ¡nos encantaría escucharte! Puedes ponerte en contacto con nosotros a través de:
+Bienvenido a **LINServices** en GitHub.
 
-Email: Giraldojhong4@gmail.com
-¡Estamos ansiosos por conocer tus ideas y contribuciones!
+Somos una organización tecnológica con sede en **Colombia**, dedicada al desarrollo de soluciones innovadoras para desarrolladores, con LIN Cloud y tambien usuarios finales con sistemas de gestión de inventarios, autenticación, contactos y mucho más. Nuestro enfoque está en construir software de alto valor que sea **eficiente, seguro y escalable**, contribuyendo a la transformación digital de nuestros clientes y desarrolladores.
+
+## 🔧 Tecnologías que usamos
+
+- .NET / C#
+- SQL Server
+- Docker
+
+## 📫 ¿Cómo colaborar?
+
+1. Explora nuestros repositorios.
+2. Revisa los issues abiertos o sugiere nuevas funcionalidades.
+3. Envía tu pull request.
+4. Comparte feedback para ayudarnos a mejorar.
+
+## 🌐 Más información
+
+- Sitio web: [linplatform.com](https://www.linplatform.com/)
+- Contacto principal: [Jhon Alexander Giraldo](https://www.linkedin.com/in/jhon-alexander-giraldo-3791521b5)
+
+Gracias por visitar LINServices. ¡Esperamos construir juntos el futuro del software!
