@@ -1,6 +1,6 @@
-# LINServices
+# LIN Services
 
-Bienvenido a **LINServices** en GitHub.
+Bienvenido a **LIN Services** en GitHub.
 
 Somos una organización tecnológica con sede en **Colombia**, dedicada al desarrollo de soluciones innovadoras para desarrolladores, con LIN Cloud y tambien usuarios finales con sistemas de gestión de inventarios, autenticación, contactos y mucho más. Nuestro enfoque está en construir software de alto valor que sea **eficiente, seguro y escalable**, contribuyendo a la transformación digital de nuestros clientes y desarrolladores.
 
